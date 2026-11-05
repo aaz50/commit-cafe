@@ -1,7 +1,12 @@
 public class CommitCafe {
 
+<<<<<<< HEAD
     private static String barista = "Aaron"; 
     private static String nickname = "Senior barista";
+=======
+    private static String barista = "John"; // STUDENT_TODO_1A: Change name
+    // STUDENT_TODO_1B: Add a nickname or title for the barista
+>>>>>>> main
 
     private static int cups = 0;
 
